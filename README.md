@@ -1,6 +1,7 @@
 # Simulateur Bitcoin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <img width="512" height="512" alt="logo-simbtc" src="https://github.com/user-attachments/assets/c3179e0f-b3cf-49d6-a940-ff54a7cf82fd" />
 
 ## Description
